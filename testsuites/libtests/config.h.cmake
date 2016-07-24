@@ -1,0 +1,9 @@
+#cmakedefine HAVE_INTTYPES_H 1
+#cmakedefine HAVE_STDINT_H 1
+#cmakedefine HAVE_STRINGS_H 1
+#cmakedefine HAVE_SYS_STAT_H 1
+#cmakedefine HAVE_SYS_TYPES_H 1
+#cmakedefine HAVE_UNISTD_H 1
+#cmakedefine SIZEOF_BLKSIZE_T @SIZEOF_BLKSIZE_T@
+#cmakedefine SIZEOF_BLKCNT_T @SIZEOF_BLKCNT_T@
+#cmakedefine SIZEOF_OFF_T @SIZEOF_OFF_T@

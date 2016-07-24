@@ -1,0 +1,1 @@
+SUBDIRS( ${RTEMS_CPU} )

@@ -1,0 +1,13 @@
+#cmakedefine SIZEOF_TIME_T @SIZEOF_TIME_T@
+#cmakedefine HAVE_INTTYPES_H 1
+#cmakedefine HAVE_STDINT_H 1
+#cmakedefine HAVE_STRINGS_H 1
+#cmakedefine HAVE_STRING_H 1
+#cmakedefine HAVE_SYS_STAT_H 1
+#cmakedefine HAVE_SYS_TYPES_H 1
+#cmakedefine HAVE_UNISTD_H 1
+#cmakedefine HAVE_STDLIB_H 1
+#cmakedefine HAVE_SYS_CPUSET_H 1
+#cmakedefine HAVE_MEMORY_H 1
+#cmakedefine HAVE_MENU 1
+#cmakedefine __RTEMS_HAVE_SYS_CPUSET_H__ 1

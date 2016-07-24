@@ -1,0 +1,1 @@
+#cmakedefine SIZEOF_TIME_T @SIZEOF_TIME_T@

@@ -1,0 +1,7 @@
+INCLUDE_DIRECTORIES( ../tmtests/include )
+RTEMS_C_EXECUTABLE( rhdeadlockbrk rhdeadlockbrk/deadlockbrk.c )
+RTEMS_C_EXECUTABLE( rhilatency rhilatency/ilatency.c )
+RTEMS_C_EXECUTABLE( rhmlatency rhmlatency/mlatency.c )
+RTEMS_C_EXECUTABLE( rhsemshuffle rhsemshuffle/semshuffle.c )
+RTEMS_C_EXECUTABLE( rhtaskpreempt rhtaskpreempt/taskpreempt.c )
+RTEMS_C_EXECUTABLE( rhtaskswitch rhtaskswitch/taskswitch.c )
